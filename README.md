@@ -51,7 +51,7 @@ Sincerely,
     - Contacts:
       - ...
   - Status: fired(?) from the university
-    - [The Emory Wheel] https://www.emorywheel.com/article/2026/01/emory-no-longer-employs-daughter-of-top-iranian-official
+    - [The Emory Wheel](https://www.emorywheel.com/article/2026/01/emory-no-longer-employs-daughter-of-top-iranian-official)
 
 # Canada
 - ...
