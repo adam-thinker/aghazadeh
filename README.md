@@ -1,7 +1,7 @@
 # USA
 - Leila Khatami
   - Relation to Officials: Daughter of [Mohammad Khatami](https://en.wikipedia.org/wiki/Mohammad_Khatami), former president
-  - US Affiliation: Union College
+  - US Affiliation: [Union College](https://www.union.edu/mathematics/faculty-staff/leila-khatami)
     - Contats:
       - president@union.edu
       - dof@union.edu
@@ -10,7 +10,7 @@
 
 - Eissa Hashemi
   - Relation to Officials: Son of [Masoumeh Ebtekar](https://en.wikipedia.org/wiki/Masoumeh_Ebtekar) who headed the country's Department of Environment from 1997 to 2005 and again from 2013 to 2017, after which she served as the Vice President for Women and Family Affairs from 2017 to 2021
-  - US Affiliation: Adjunct Faculty member at The Chicago School of Professional Psychology (TCSPP)
+  - US Affiliation: [The Chicago School](https://www.thechicagoschool.edu/academics/faculty/byname/seyed_eissa_hashemi/) Adjunct Faculty member at Professional Psychology (TCSPP)
     - Contacts:
       - president@thechicagoschool.edu
       - lrico@thechicagoschool.edu
@@ -47,10 +47,11 @@ Sincerely,
 
 - Fatemeh Ardeshir Larijani
   - Relation to Officials: Daughter of [Ali Larijani](https://en.wikipedia.org/wiki/Ali_Larijani), former military officer in the Islamic Revolutionary Guard Corps, who serves as Secretary of Supreme National Security Council since 2025. He served as the Speaker of the Parliament of Iran from 2008 to 2020. He has been a member of the Expediency Discernment Council since 2020, having previously served from 1997 to 2008. 
-  - US Affiliation: Emory University
+  - US Affiliation: [Emory University](https://winshipcancer.emory.edu/profiles/ardeshir-fatemeh.php), [Emory Healthcare](https://providers.emoryhealthcare.org/provider/fatemeh-ardeshir-larijani/2613910)
     - Contacts:
       - ...
   - Status: fired(?) from the university
+    - [The Emory Wheel] https://www.emorywheel.com/article/2026/01/emory-no-longer-employs-daughter-of-top-iranian-official
 
 # Canada
 - ...
