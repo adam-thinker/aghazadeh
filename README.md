@@ -1,4 +1,4 @@
-123 Please contribute information to extend this list.
+Please contribute information to extend this list.
 
 # USA
 - Leila Khatami
